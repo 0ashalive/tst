@@ -13,7 +13,7 @@
         "foot_live_url": "https://www.sofascore.com/",
         "app_version": 1,
         "app_versions": 6,
-        "app_versionw": 5,
+        "app_versionw": 6,
         "ashaott_app_version": 26,
         "message": "Welcome To Ashaott - Everyone!Please Share App Your Friends. Firestick Download Code : 4021329 ",
         "message_url": "https://t.me/ashaott",
@@ -25,6 +25,6 @@
         "show_tg": "yes",
         "custom_menu_item": "no",
         "start_ad": "",
-        "start_ad_action": "aHR0cHM6Ly9hc2hhb3R0YWRzLmJsb2dzcG90LmNvbS8qYWQ="
+        "start_ad_action": ""
     }
 ]
